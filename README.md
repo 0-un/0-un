@@ -16,8 +16,6 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 </div>
  
-<br />
-
 <div>
   <h2> Tools </h2>
   
