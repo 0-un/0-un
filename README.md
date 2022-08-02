@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Park%YoungUn&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=P%ark%Young%Un&fontSize=90" />
                     <p>
                     신입 프론트엔드 개발자 박영언입니다.<br />
                     꼼꼼히 정리하며 공부하는 습관을 가진 저이며, <br />1px의 어긋남도 허용하지 않는 개발자로 성장하고 싶습니다.<br />
