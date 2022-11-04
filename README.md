@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=ParkYoungUn&fontSize=90" />
-                    <p>
-                    신입 프론트엔드 개발자 박영언입니다.<br />
-                    꼼꼼히 정리하며 공부하는 습관을 가진 저이며, <br />1px의 어긋남도 허용하지 않는 개발자로 성장하고 싶습니다.<br />
-                    제가 공부한 흔적은 저의 노력이 담긴 <a href="https://magnificent-plaster-40a.notion.site/4642cf9469bd4c04b05e71d66f08ac1a" target='_blank'>
-노션</a>에서 확인해주세요.</p>	    
+	    
 
 
 <br />
